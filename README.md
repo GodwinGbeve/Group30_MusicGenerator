@@ -57,13 +57,13 @@ Feel free to explore the provided Jupyter notebook for a step-by-step walkthroug
 
 For a detailed demonstration of how the website works, please watch the following video:
 
-[![Website Demonstration Video](link_to_youtube_thumbnail)](link_to_youtube_video)
+(https://youtu.be/-8eyQEBGoHg)
 
 ## Deployment
 
 The model and generated music sequences can be deployed on a website. Access the deployed application using the following link:
 
-[Link to Deployment](deployment_website_link)
+(http://localhost:8501)
 
 Feel free to explore the provided Jupyter notebook for a step-by-step walkthrough of the entire process.
 
