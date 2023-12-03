@@ -14,7 +14,9 @@ This repository contains code for generating music sequences using neural networ
 - [Model Training](#model-training)
 - [Generating Music](#generating-music)
 - [Saving Model and Results](#saving-model-and-results)
-
+- [Website Demonstration](#website-demonstration)
+- [Deployment](#deployment)
+  
 ## Installation
 
 To run the code, you need to install the required packages. Execute the following commands:
@@ -50,6 +52,21 @@ Once the model is trained, music sequences are generated. The `predict_next_note
 The final model weights and architecture are saved for future use. The weights are stored in `best_model_weights.h5`, and the architecture is saved as JSON in `best_model_architecture.json`. Additionally, the generated music is saved as a MIDI file named `output.mid`.
 
 Feel free to explore the provided Jupyter notebook for a step-by-step walkthrough of the entire process.
+
+## Website Demonstration
+
+For a detailed demonstration of how the website works, please watch the following video:
+
+[![Website Demonstration Video](link_to_youtube_thumbnail)](link_to_youtube_video)
+
+## Deployment
+
+The model and generated music sequences can be deployed on a website. Access the deployed application using the following link:
+
+[Link to Deployment](deployment_website_link)
+
+Feel free to explore the provided Jupyter notebook for a step-by-step walkthrough of the entire process.
+
 
 ---
 
